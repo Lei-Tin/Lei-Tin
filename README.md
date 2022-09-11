@@ -1,16 +1,24 @@
-### Hi there 👋
+## 🦊 Thanks for checking out my profile!
 
-<!--
-**Lei-Tin/Lei-Tin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Name's **Ray** (He / Him), second year Undergraduate at the University of Toronto, Computer Science Specialist, Math & Statistics Minor. 
 
-Here are some ideas to get you started:
+## 💖 Hobbies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📺 Watching Anime (Don't have a "MyAnimeList" account yet, will look forward in making one)
+- 🎵 Listening to music (EDMs and Japanese music mainly)
+- 🎮 Playing games, my [Steam Profile](https://steamcommunity.com/id/Lei_Tin/), I also play some console games and League
+- 🗨️ Chat and hang around with friends!
+
+## 📧 How to find me
+
+- Discord: `LeiT#5929`
+- Wechat: `HLeiTR`
+
+## ✨ Skills
+
+- Python
+- Java (Maybe?)
+- SQL (Maybe?)
+- HTML & CSS (Also maybe :3)
+
+### 💓 Thanks for reading these!
