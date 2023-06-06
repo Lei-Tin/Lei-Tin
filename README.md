@@ -2,6 +2,8 @@
 
 Name's **Ray** (He / Him), second year Undergraduate at the University of Toronto, Computer Science Specialist, Potential Math & Statistics Minor. 
 
+![Ray's GitHub stats](https://github-readme-stats.vercel.app/api?username=lei-tin&show_icons=true&theme=vue&rank_icon=github)
+
 ## 💖 Hobbies
 
 - 📺 Watching Anime ([MyAnimeList Account](https://myanimelist.net/profile/HLeiTR))
