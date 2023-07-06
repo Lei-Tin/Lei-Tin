@@ -16,6 +16,7 @@ Name's **Ray** (He / Him), Undergraduate student at the University of Toronto, C
 
 - Discord: `LeiT#5929`
 - Wechat: `HLeiTR`
+- [LinkedIn](https://www.linkedin.com/in/shouyihung/)
 
 ## ✨ Skills
 
