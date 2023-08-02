@@ -14,7 +14,7 @@ Name's **Ray** (He / Him), Undergraduate student at the University of Toronto, C
 
 ## 📧 How to find me
 
-- Discord: `LeiT#5929`
+- Discord: `hleitr` or `LeiT#5929`
 - Wechat: `HLeiTR`
 - [LinkedIn](https://www.linkedin.com/in/shouyihung/)
 
