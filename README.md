@@ -10,7 +10,7 @@ Currently working at Huawei Technologies Canada as a Machine Learning Researcher
 
 - 📺 Watching Anime ([MyAnimeList Account](https://myanimelist.net/profile/HLeiTR))
 - 🎵 Listening to music (EDMs, Japanese music, classical, etc.)
-- 🎮 Playing games, my [Steam Profile](https://steamcommunity.com/id/Lei_Tin/), I also play some console games and [League](https://www.op.gg/summoners/na/HLeiTR). Planning to play some of the important Nintendo Switch exclusive games (Breath of the Wild, etc.). 
+- 🎮 Playing games, my [Steam Profile](https://steamcommunity.com/id/Lei_Tin/), I also play some console games and [League](https://www.op.gg/summoners/na/HLeiTR-1337). Planning to play some of the important Nintendo Switch exclusive games (Breath of the Wild, etc.). 
 - 🗨️ Chat and hang around with friends!
 - 😿 Eat and sleep
 
