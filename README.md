@@ -2,7 +2,7 @@
 
 Name's **Ray** (He / Him), Undergraduate student at the University of Toronto, Computer Science Specialist. 
 
-Currently working at Huawei Technologies Canada as a Machine Learning Researcher Intern. 
+Currently working at AWS Vancouver as a Software Development Engineer Intern. Previously worked at Huawei Canada in Markham as a Machine Learning Researcher. 
 
 ![Ray's GitHub stats](https://github-readme-stats.vercel.app/api?username=lei-tin&show_icons=true&theme=vue&rank_icon=github)
 
@@ -33,5 +33,7 @@ Currently working at Huawei Technologies Canada as a Machine Learning Researcher
 - Shell (Bash, ZSH)
 - Linux / Unix
 - MIPS Assembly
+- AWS
+- Microsoft Azure
 
 ### 💓 Thanks for reading these!
