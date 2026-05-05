@@ -4,7 +4,7 @@ Name's **Ray** (He / Him), MSCS Student at Stanford University. Undergraduate st
 
 Previously worked at AWS Vancouver as a Software Development Engineer Intern, under the EventBridge team.
 
-![Ray's GitHub stats](https://github-readme-stats.vercel.app/api?username=lei-tin&show_icons=true&theme=vue&rank_icon=github)
+![Ray's GitHub stats](https://leetcard.jacoblin.cool/HLeiTR?theme=light&font=Noto%20Sans&ext=heatmap)
 
 ## 💖 Hobbies
 
